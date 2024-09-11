@@ -9572,7 +9572,7 @@
  .header .header-content .header-title {
      font-size: calc(40px + (120 - 40) * ((100vw - 300px) / (1600 - 300)));
      font-weight: bold;
-     line-height: .7;
+     line-height: 1;
      margin-bottom: 25px;
      color: inherit;
 }
